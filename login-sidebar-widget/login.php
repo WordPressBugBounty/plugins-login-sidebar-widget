@@ -3,11 +3,11 @@
 Plugin Name: Login Widget With Shortcode
 Plugin URI: https://wordpress.org/plugins/login-sidebar-widget/
 Description: This is a simple login form in the widget. just install the plugin and add the login widget in the sidebar. Thats it. :)
-Version: 6.1.2
+Version: 6.1.3
 Text Domain: login-sidebar-widget
 Domain Path: /languages
-Author: aviplugins.com
-Author URI: https://www.aviplugins.com/
+Author: goplugins.in
+Author URI: https://goplugins.in/
  */
 
 /*

@@ -1,10 +1,10 @@
 === Login Widget With Shortcode ===
 Contributors: avimegladon
-Donate link: https://www.aviplugins.com/donate/
+Donate link: https://goplugins.in/donate/
 Tags: login, widget, login widget, widget login, sidebar login, login form, user login, authentication, facebook login, twitter login, google login, google plus, facebook, twitter, social login, social media, facebook comments, fb comment, forgot password, reset password, link
 Requires at least: 2.0.2
-Tested up to: 6.4.3
-Stable tag: 6.1.2
+Tested up to: 7.0.1
+Stable tag: 6.1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,29 +32,9 @@ This is a simple login form in the widget. This will allow users to login to the
 * Choose user profile page.
 * Easy CSS implementation from admin panel.
 
-= Facebook Login Widget (PRO) =
-There is a PRO version of this plugin that supports login with <strong>Facebook, Google, Twitter, LinkedIn, Amazon and Instagram accounts. Get it for <strong>USD 6.00</strong> 
-
-<a href="https://www.aviplugins.com/fb-login-widget-pro/" target="_blank">Click here for more details</a> | <a href="https://demo.aviplugins.com/login/" target="_blank">Click here for a Live Demo</a>
-
-* The PRO version comes with a <strong>FREE Content Restriction Addon</strong>. Partial contents of Pages/ Posts or the complete Page/Post can be hidden from visitors of your site.
-* Compatible with <strong>WooCommerce</strong> plugin.
-* Compatible with <strong>WordPress Multisite</strong> Installation.
-* Login Logs are stored in database. IPs gets <strong>Blocked</strong> after a certain numbers of wrong login attempts. This ensures site's security.
-* IPs can be <strong>Blocked</strong> permanently from admin panel.
-* <strong>Captcha</strong> login securiy in Frontend and Admin login Forms.
-* <strong>Restrict Admin panel Access</strong> for selected user Roles. For example you can restrict Admin Panel access for "Subscriber" and "Contributor" from your site.
-* Use Shortcode to display login form in Post or Page.
-* Use only Social Icons for logging in. No need to put the entire login form.
-* Change welcome text "Howdy" from plugin settings section.
-* Manage Forgot Password Email Body.
-* Easy CSS implementation from admin panel.
-* And with other useful settings. <a href="https://www.aviplugins.com/fb-login-widget-pro/" target="_blank">Click here for details</a>
-
 = Social Login No Setup =
 The plugin supports login with 30+ sites. The most important part is that it requires no Setups, no Maintanance, no need to create any APPs, APIs, Client Ids, Client Secrets or anything. Get it for <strong>USD 3.00</strong>. Supported sites are listed below.
 
-* Facebook
 * Google
 * YouTube
 * Google Drive
@@ -91,9 +71,9 @@ The plugin supports login with 30+ sites. The most important part is that it req
 * Mailchimp
 * Skype
 
-<a href="https://www.aviplugins.com/social-login-no-setup/" target="_blank">Click here for more details</a> | <a href="https://demo.aviplugins.com/social-login/" target="_blank">Click here for Live Demo</a>
+<a href="https://goplugins.in/social-login-no-setup/" target="_blank">Click here for more details</a> | <a href="https://demo.goplugins.in/social-login/" target="_blank">Click here for Live Demo</a>
 
-> Post your plugin related queries at <a href="https://www.aviplugins.com/support.php">https://www.aviplugins.com/support.php</a>
+> Post your plugin related queries at <a href="https://goplugins.in/support.php">https://goplugins.in/support.php</a>
 
 == Installation ==
 
@@ -134,10 +114,10 @@ exit;<br>
 
 = For any kind of queries =
 
-1. Please email me demoforafo@gmail.com. Contact me at https://www.aviplugins.com/support.php
+1. Please email me demoforafo@gmail.com. Contact me at https://goplugins.in/support.php
 2. Or you can write comments directly to my plugins page. Please visit here http://avifoujdar.wordpress.com/2014/02/13/login-widget/
 
-* If you want to translate the plugin in your language please translate the sample .PO file and email me the the file at demoforafo@gmail.com and I will include that in the language file. Sample .PO file can be downloaded from <a href="https://www.aviplugins.com/language-sample/login-sidebar-widget-es_ES.po">here</a>
+* If you want to translate the plugin in your language please translate the sample .PO file and email me the the file at demoforafo@gmail.com and I will include that in the language file. Sample .PO file can be downloaded from <a href="https://goplugins.in/language-sample/login-sidebar-widget-es_ES.po">here</a>
 
 == Screenshots ==
 
@@ -156,6 +136,9 @@ exit;<br>
 13. Google reCaptcha settings
 
 == Changelog ==
+
+= 6.1.3 = 
+* Bug fixes and improvements.
 
 = 6.1.2 = 
 * Bug fixes and improvements.
@@ -341,7 +324,7 @@ exit;<br>
 * Option to add after login redirect URL with redirect to page option.
 
 = 5.1.0 =
-* Forgot password form email address added. aviplugins.com dashboard news widget added.
+* Forgot password form email address added. goplugins.in dashboard news widget added.
 
 = 5.0.0 =
 * forms structure is updated, Now with fully responsive login form. Make sure to reload the default styling of the plugin from plugin settings page.
@@ -350,7 +333,7 @@ exit;<br>
 * forms structure is updated.
 
 = 4.2.3 =
-* Language selection bug fixed for <a href="https://www.aviplugins.com/fb-comments-afo-addon/">Facebook Comments Add On</a>
+* Language selection bug fixed for <a href="https://goplugins.in/fb-comments-afo-addon/">Facebook Comments Add On</a>
 
 = 4.2.2 =
 * Login and Logout page redirection modified.

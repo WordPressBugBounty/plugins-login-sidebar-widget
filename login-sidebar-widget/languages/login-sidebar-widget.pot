@@ -24,7 +24,7 @@ msgid "Add Remember Me"
 msgstr ""
 
 #. Author of the plugin
-msgid "aviplugins.com"
+msgid "goplugins.in"
 msgstr ""
 
 #: view/admin/captcha.php:4 view/frontend/captcha.php:2
@@ -132,7 +132,7 @@ msgid "https://wordpress.org/plugins/login-sidebar-widget/"
 msgstr ""
 
 #. Author URI of the plugin
-msgid "https://www.aviplugins.com/"
+msgid "https://goplugins.in/"
 msgstr ""
 
 #: view/admin/settings.php:210
